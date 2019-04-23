@@ -140,21 +140,28 @@ As capacidades do produto vão de encontro com as necessidades do aluno recém-i
 O produto não possui custos além dos relacionados a equipe de desenvolvimento e gerenciamento, não serão necessários nenhum serviço ou licença de terceiros pagos.</p>
 
 ## 5. Recursos do Produto
-### 5.1 Ajuda com sintaxe
-<p align="justify"> &emsp;&emsp;
-O usuário terá seus erros de sintaxe da linguagem python corrigidos pelo Bot</p>
-
-### 5.2 Respostas de Dúvidas
+### 5.1 Respostas de Dúvidas
 <p align="justify"> &emsp;&emsp;
 O Bot irá responder as dúvidas do aluno sobre a linguagem python</p>
 
-### 5.3 Indicação de Bibliotecas
+### 5.2 Ajudar com o usuário com exemplo
 <p align="justify"> &emsp;&emsp;
 Caso o usuário queira uma funcionalidade que não está disponível da STL da linguagem python, o Bot irá sugerir bibliotecas que possuam tal funcionalidade</p>
+Caso o usuário não tenha entendido como pretendia, ou gostaria de visualizar uma aplicação do que foi explicado, um exemplo pode ser solicitado.</p>
 
-### 5.4 Feedback da compilação dos códigos
+### 5.3 Oferecer link com conteúdo extra
 <p align="justify"> &emsp;&emsp;
 Após o usuário mandar o Bot compilar seu código, o mesmo irá mandar um feedback da compilação. De modo que os possíveis erros e warnings serão mostrados e explicados</p>
+O usuário pode solicitar por conteúdo extra, será fornecido o link de algum site com informação confiável e didática</p>
+
+### 5.4 Oferecer links de exercícios para treinamento
+<p align="justify"> &emsp;&emsp;
+O usuário pode solicitar por exercícios para que seja fixado o que foi aprendido. Serão retornados 3 links de exercícios a serem resolvidos por meio do juiz online URI, referentes ao conteúdo solicitado.</p>
+
+### 5.5 Permitir que o usuário pesquise no StackOverflow
+<p align="justify"> &emsp;&emsp;
+O usuário poderá solicitar uma pesquisa. Será feita uma requisição com a api do site StackOverflow que retornará 3 links com dúvidas semelhantes que foram esclarecidas.
+</p>
 
 ## 6. Restrições
 * AIX é um bot que deverá funcionar juntamente ao ambiente web Jupyter Notebook.
