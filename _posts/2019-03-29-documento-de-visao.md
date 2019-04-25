@@ -147,12 +147,10 @@ O Bot irá responder as dúvidas do aluno sobre a linguagem python</p>
 
 ### 5.2 Ajudar com o usuário com exemplo
 <p align="justify"> &emsp;&emsp;
-Caso o usuário queira uma funcionalidade que não está disponível da STL da linguagem python, o Bot irá sugerir bibliotecas que possuam tal funcionalidade</p>
 Caso o usuário não tenha entendido como pretendia, ou gostaria de visualizar uma aplicação do que foi explicado, um exemplo pode ser solicitado.</p>
 
 ### 5.3 Oferecer link com conteúdo extra
 <p align="justify"> &emsp;&emsp;
-Após o usuário mandar o Bot compilar seu código, o mesmo irá mandar um feedback da compilação. De modo que os possíveis erros e warnings serão mostrados e explicados</p>
 O usuário pode solicitar por conteúdo extra, será fornecido o link de algum site com informação confiável e didática</p>
 
 ### 5.4 Oferecer links de exercícios para treinamento
@@ -161,7 +159,7 @@ O usuário pode solicitar por exercícios para que seja fixado o que foi aprendi
 
 ### 5.5 Permitir que o usuário pesquise no StackOverflow
 <p align="justify"> &emsp;&emsp;
-O usuário poderá solicitar uma pesquisa. Será feita uma requisição com a api do site StackOverflow que retornará 3 links com dúvidas semelhantes que foram esclarecidas.
+O usuário poderá solicitar uma pesquisa. Será feita uma requisição com a api do site StackOverflow que retornará 5 links com dúvidas semelhantes que foram esclarecidas.
 </p>
 
 ## 6. Restrições
