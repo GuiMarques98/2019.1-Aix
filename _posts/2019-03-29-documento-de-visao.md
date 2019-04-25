@@ -48,7 +48,7 @@ As informações serão organizadas em tópicos referentes aos seguintes temas, 
 
 ### 2.1  Oportunidade de Negócios
 <p align="justify"> &emsp;&emsp;
-O programa concebido pela equipe de desenvolvimento desempenha a função de superar os obstáculos encontrados no processo de aprendizagem comumente defasado e engessado no presente momento. Com o intuito de introduzir uma metodologia de ensino alternativa e dinâmica, com um formato inovador, o projeto foi criado justamente com um direcionamento ao professor, às instituições de educação e ao principal beneficente: o aluno. Plataformas digitais educacionais também são alvos quando se trata do campo empreendedor.</p>
+O programa concebido pela equipe de desenvolvimento desempenha a função de superar os obstáculos encontrados no processo de aprendizagem comumente defasado e engessado no presente momento. Com o intuito de introduzir uma metodologia de ensino alternativa e dinâmica, em um formato inovador, o projeto foi criado justamente com um direcionamento ao professor, às instituições de educação e ao principal beneficente: o aluno. Plataformas digitais educacionais também são alvos quando se trata do campo empreendedor.</p>
 
 ### 2.2  Instrução do Problema
 <p align="justify"> &emsp;&emsp;
@@ -61,12 +61,13 @@ Ao tratar estes impasses dentro de classe, com o uso de ferramentas tecnológica
 |--|--|
 |Problema | Dificuldades encontradas no ensino atualmente.
 |Afeta|Campo acadêmico geral, tanto alunos quanto professores e corporações de educação que não alcançam êxito em suas funções.
-|Impactos | Formação de excelentes profissionais para o mercado de trabalho, estimular o interesse de especialistas de outras áreas.|
-|Solução | O programa fornecerá diferentes funcionalidades para o usuário, como respostas automáticas para indagações do usuário, ajuda com sintaxe, indicar bibliotecas, feedback da compilação dos códigos. |
+|Impactos | Formação de excelentes profissionais para o mercado de trabalho, estimular o interesse de especialistas de outras áreas na programação.|
+|Solução | O programa fornecerá diferentes funcionalidades para o usuário, como respostas automáticas para indagações do usuário, ajuda com sintaxe, pesquisa direta no StackOverflow, entre outros serviços. |
 
 ### 2.3  Instrução de Posição do produto
 <p align="justify"> &emsp;&emsp;
-Como um dispositivo alternativo de aprendizado, o Aix Bot apresenta auxílio ao usuário ao demonstrar as funcionalidades de amparo em sintaxe da linguagem, explicação quanto a dúvidas na disciplina, indicação de bibliotecas e retornos de compilação de código.</p>
+Como um dispositivo alternativo de aprendizado, o Aix Bot apresenta auxílio ao usuário ao demonstrar as funcionalidades de amparo em sintaxe da linguagem, explicação quanto a dúvidas na disciplina e pesquisas diretas
+no StackOverflow.</p>
 
 <p align="justify"> &emsp;&emsp;
 Com essas utilidades, o aplicativo alcança uma posição inovadora na categoria de programas didáticos para entidades de aprendizado, sejam elas presenciais ou não.</p>
